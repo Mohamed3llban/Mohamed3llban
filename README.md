@@ -2,36 +2,54 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+World!+🌍;I'm+Mohamed+Ellban;Fullstack+.NET+Developer;Welcome+to+my+GitHub!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+Coders!+🌍;I'm+Mohamed+Ellban;Fullstack +.NET+Developer;Welcome+to+my+GitHub!">
   </a>
 </h1>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
 
 ---
 
 ## 🧑‍💻 About Me  
 
 - 🚀 **.NET Full-Stack Developer**  
-- 💡 Skilled in **ASP.NET Core MVC, .NET 9, EF Core, SQL Server**  
-- 🏥 Building **MediTech Hospital** (Hospital Management System)  
-- 🌱 Learning **Blazor** & **Clean Architecture**  
-- 📫 Reach me: [ www.linkedin.com/in/mohamedellban  ](YOUR_LINKEDIN) | [Email](mailto:YOUR_EMAIL)  
+- 💡 Skilled in **ASP.NET Core MVC, .NET , EF Core, SQL Server, LINQ, APIS, **  
+- 🌱 Learning **Blazor** & **Clean Architecture** & **HTML, CSS, React**  
+- 📫 Reach me: [LinkedIn](www.linkedin.com/in/mohamedellban) | [Email](mailto:mohamedellban154@gmail.com)  
 
 ---
 
-## ⚡ Tech Stack  
+## 🔥 Languages & Frameworks & Tools & Abilities 🔥  
 
-```text
-💻 Languages:   C#, JavaScript, HTML5, CSS3  
-🧩 Frameworks:  ASP.NET Core, Entity Framework Core, Bootstrap  
-🗄️ Database:    SQL Server  
-🛠️ Tools:       Git, GitHub, Visual Studio, VS Code  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,react,Swagger,blazor,sqlserver,postgres,git,github,vscode,visualstudio" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)  
+
+</div>
+
+---
+
+## 🚀 Featured Project  
+
+### 🏥 MediTech Hospital  
+> A professional **ASP.NET 9 MVC** project with:  
+> - Patient, Clinic, Appointment CRUD  
+> - Identity (Login/Logout)  
+> - SQL Server & EF Core Migrations  
+> - Responsive Razor Views with Bootstrap  
+
+🔗 [View Repository](https://github.com/YOUR_GITHUB_USERNAME/MediTech-Hospital)  
+
+---
+
+<h4 align="center">
+  🌟 Explore more projects on my <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">GitHub</a> 🌟
+</h4>
