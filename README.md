@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+Coders!+🌍;I'm+Mohamed+Ellban;Fullstack +.NET+Developer;Welcome+to+my+GitHub!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+World!+🌍;I'm+Mohamed+Ellban;Fullstack+.NET+Developer;Welcome+to+my+GitHub!">
   </a>
 </h1>
 
@@ -11,16 +11,16 @@
 ## 🧑‍💻 About Me  
 
 - 🚀 **.NET Full-Stack Developer**  
-- 💡 Skilled in **ASP.NET Core MVC, .NET , EF Core, SQL Server, LINQ, APIS, **  
-- 🌱 Learning **Blazor** & **Clean Architecture** & **HTML, CSS, React**  
-- 📫 Reach me: [LinkedIn](www.linkedin.com/in/mohamedellban) | [Email](mailto:mohamedellban154@gmail.com)  
+- 💡 Skilled in **ASP.NET Core MVC, .NET , EF Core, SQL Server**  
+- 🌱 Learning **Blazor** & **Clean Architecture**  
+- 📫 Reach me: [LinkedIn](YOUR_LINKEDIN) | [Email](mailto:YOUR_EMAIL)  
 
 ---
 
 ## 🔥 Languages & Frameworks & Tools & Abilities 🔥  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,react,Swagger,blazor,sqlserver,postgres,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,react,angular,blazor,sqlserver,postgres,git,github,vscode,visualstudio" />
 </p>
 
 ---
@@ -36,20 +36,3 @@
 </div>
 
 ---
-
-## 🚀 Featured Project  
-
-### 🏥 MediTech Hospital  
-> A professional **ASP.NET 9 MVC** project with:  
-> - Patient, Clinic, Appointment CRUD  
-> - Identity (Login/Logout)  
-> - SQL Server & EF Core Migrations  
-> - Responsive Razor Views with Bootstrap  
-
-🔗 [View Repository](https://github.com/YOUR_GITHUB_USERNAME/MediTech-Hospital)  
-
----
-
-<h4 align="center">
-  🌟 Explore more projects on my <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">GitHub</a> 🌟
-</h4>
