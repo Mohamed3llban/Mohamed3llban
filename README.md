@@ -20,19 +20,5 @@
 ## 🔥 Languages & Frameworks & Tools & Abilities 🔥  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,react,angular,blazor,sqlserver,postgres,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,react,blazor,sqlserver,git,github,vscode,visualstudio" />
 </p>
-
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)  
-
-</div>
-
----
