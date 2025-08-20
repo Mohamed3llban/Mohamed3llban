@@ -11,9 +11,9 @@
 ## 🧑‍💻 About Me  
 
 - 🚀 **.NET Full-Stack Developer**  
-- 💡 Skilled in **ASP.NET Core MVC, .NET , EF Core, SQL Server**  
-- 🌱 Learning **Blazor** & **Clean Architecture**  
-- 📫 Reach me: [LinkedIn](YOUR_LINKEDIN) | [Email](mailto:YOUR_EMAIL)  
+- 💡 Skilled in **ASP.NET Core MVC, .NET , EF Core, SQL Server, LINQ, APIS, Postman **  
+- 🌱 Learning **Blazor** &  **React** & **Clean Architecture** & **DataBase**  
+- 📫 Reach me: [LinkedIn](www.linkedin.com/in/mohamedellban) | [Email](mailto:mohamedellban154@gmail.com)  
 
 ---
 
