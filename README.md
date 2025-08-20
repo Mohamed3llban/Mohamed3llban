@@ -20,5 +20,5 @@
 ## 🔥 Languages & Frameworks & Tools & Abilities 🔥  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,react,blazor,sqlserver,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,react,blazor,sqlserver" />
 </p>
